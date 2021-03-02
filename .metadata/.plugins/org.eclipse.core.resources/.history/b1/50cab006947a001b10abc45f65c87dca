@@ -1,0 +1,25 @@
+package trapezio;
+
+public class Area2 {
+	
+     public static void main(String[] args) {
+		
+		float bmaior;
+		float bmenor;
+		float altura;
+		float valorfixo;
+		float area;
+		
+		bmaior = 10;
+		bmenor = 5;
+		altura = 4;
+		valorfixo = 2;
+		area = (bmaior + bmenor) * altura / valorfixo;
+		
+		
+		
+		
+
+  }
+
+}

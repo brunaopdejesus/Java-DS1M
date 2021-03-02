@@ -1,0 +1,10 @@
+package retangulo;
+
+public class area {
+public static void main(String[] args) {
+		
+		float raio;
+		float pi;
+		float area;
+
+}

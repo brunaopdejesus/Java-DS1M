@@ -1,0 +1,21 @@
+package retangulo;
+
+public class Area {
+	
+   public static void main(String[] args) {
+		
+		float lmaior;
+		float lmenor;
+		float area;
+		float perimetro;
+			
+		lmaior = 8;
+		lmenor = 6;
+		area = lmaior * lmenor;
+		perimetro = 8 + 6;
+		
+		System.out.print(area)
+		System.out.print(perimetro)
+   }
+
+}

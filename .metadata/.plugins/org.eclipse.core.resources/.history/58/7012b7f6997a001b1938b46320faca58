@@ -1,0 +1,18 @@
+package circunferencia;
+
+public class Circulo {
+	
+	public static void main(String[] args) {
+		
+		float raio;
+		float pi;
+		float area;
+		
+		raio = 5;
+		pi = 3.14f;
+		area = pi * (raio * raio);
+				
+				System.out.print(area);			
+	}
+
+}
