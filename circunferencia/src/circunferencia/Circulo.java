@@ -5,7 +5,7 @@ public class Circulo {
 	public static void main(String[] args) {
 		
 		float raio;
-		float PI;
+		final float PI;
 		float area;
 		
 		raio = 5;

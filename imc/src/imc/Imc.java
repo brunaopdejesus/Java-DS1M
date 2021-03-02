@@ -12,8 +12,8 @@ public class Imc {
 	   altura = 1.64f;
 	   IMC = peso / (altura * altura);
          
-	   System.out.print(IMC);
-	   
+	   System.out.print("Resultado do IMC: ");
+	   System.out.println(IMC);
 	}
 	
 }

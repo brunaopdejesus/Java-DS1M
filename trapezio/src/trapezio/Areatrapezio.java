@@ -16,6 +16,7 @@ public class Areatrapezio {
 		VALORFIXO = 2;
 		area = (bmaior + bmenor) * altura / VALORFIXO;
 		
+		System.out.print("Área do trapézio: ");
 		System.out.print(area);
 		
 		

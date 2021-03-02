@@ -14,9 +14,11 @@ public class Areaperimetro {
 		area = lmaior * lmenor;
 		perimetro = lmaior + lmenor + lmaior + lmenor;
 		
-		System.out.println(area);
+		System.out.print("Área do retângulo: ");
+		System.out.println(area + " metros.");
+		System.out.print("Perímetro do retângulo: ");
+		System.out.println(perimetro + " metros.");
 		
-		System.out.println(perimetro);
    }
 
 }

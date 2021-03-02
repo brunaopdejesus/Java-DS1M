@@ -19,13 +19,14 @@ public class Notas {
 		 media = (nota1 + nota2 + nota3 + nota4) / FIXO;
 		 
 		 
-		 System.out.print("Nota 1: ");
+		 System.out.println("NOTAS 1ª ETAPA:");
+		 System.out.print("Avaliação mensal: ");
 		 System.out.println(nota1);
-		 System.out.print("Nota 2: ");
+		 System.out.print("Avaliação bimestral: ");
 		 System.out.println(nota2);	
-		 System.out.print("Nota 3: ");
+		 System.out.print("Seminário: ");
 		 System.out.println(nota3);
-		 System.out.print("Nota 4: ");
+		 System.out.print("Pesquisa: ");
 		 System.out.println(nota4);
 		 System.out.print("Média: ");
 		 System.out.println(media);
